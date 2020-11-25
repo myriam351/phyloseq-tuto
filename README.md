@@ -1,3 +1,3 @@
 # phyloseq-tuto
 
-Ceci est le premier lien avec Github -> fait
+Ceci est le premier lien avec Github

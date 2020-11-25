@@ -1,4 +1,5 @@
 # phyloseq-tuto
 
-Ceci est le premier lien avec Github
+Mise à jour des données de TP : 
+00_install-packages.rmd -> Tous les packages
 
